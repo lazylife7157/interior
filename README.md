@@ -1,7 +1,7 @@
 # interior
 
 ## Schedule
-|     Sun     |     Mon     |     Tue     |     Wed     |     Thu     |     Fri     |     Sat     |
+|   Sun   |     Mon     |     Tue     |     Wed     |     Thu     |     Fri     |   Sat   |
 |-|-|-|-|-|-|-|
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 |  | 잔금 및 등기<br />실측 | 철거<br />실측 | 보일러 | 창호 | 창호 |  |
