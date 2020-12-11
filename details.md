@@ -1,3 +1,36 @@
+# 공정별 공사 내용
+
+## 철거
+
+## 창호
+
+* 모든 외창은 2중창, 모든 내창은 단창
+* 거실은 폴딩도어
+
+## 계단
+
+## 목공
+
+* 시스템 에어컨 및 배관을 위한 박스 제작
+* 도장 작업을 위한 가벽 [인테리어쇼](https://www.youtube.com/watch?v=CA5X4F65hHk) 디테일 참고
+* 히든도어 [인테리어쇼](https://www.youtube.com/watch?v=Le9_7Mattp0) 디테일 참고
+* 거실 발코니 레벨 맞추기 [참고](http://www.drapt.com/drnews/?page_name=column_view&menu_key=8&view_count=15&sort_key=wdate&start=0&field=&s_que=&uid=19483)
+  * 거실 폭 만큼만, 안방쪽은 타일 유지
+* 폴딩 도어 프레임 설치
+  * 가능하면 프레임때문에 턱이 지지 않도록 계산
+
+## 도장
+
+* 범위: 벽면 전체
+
+## 도배
+
+* 범위: 천정 전체
+
+
+
+# 원하는 컨셉
+
 * 공통
   * 천정
     * 도배
