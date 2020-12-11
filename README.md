@@ -13,6 +13,3 @@
 |  | 마루 | 마루 | 에어컨 | 폴딩도어 | 전기 |  |
 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 |  | 싱크대 | 입주청소 | 베이크아웃 | 이사 |  |  |
-
-## References
-* [거실 발코니](https://www.youtube.com/watch?v=kjX69dmPuZI&list=PLi-etruiVNGxT7ef6_AclnTOe9b0lWDaz)
