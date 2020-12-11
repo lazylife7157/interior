@@ -28,6 +28,7 @@
       * 샤워부스
   * 거실
     * 폴딩도어
+      * 문짝이 홀수면 하나만 따로 열리게 할 수 있음 [참고 영상](https://youtu.be/yFWmizg9PNo?t=149)
     * 거실 발코니
       * [무아연구실](https://www.youtube.com/watch?v=kjX69dmPuZI&list=PLi-etruiVNGxT7ef6_AclnTOe9b0lWDaz) 참고
       * 거실 폭 만큼 발코니 레벨 조정 및 거실과 동일한 바닥 마감
