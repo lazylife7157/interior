@@ -1,16 +1,23 @@
 * 공통
-  * 무몰딩
-    * [인테리어쇼](https://www.youtube.com/watch?v=CA5X4F65hHk) 디테일 참고
-    * 천정 도배
-    * 벽면 도장
-    * 천정몰딩 x
+  * 천정
+    * 도배
+    * 시스템 에어컨 및 배관을 위한 박스 구성
+    * 몰딩 x
+  * 벽면
+    * 목공 가벽 [인테리어쇼](https://www.youtube.com/watch?v=CA5X4F65hHk) 디테일 참고
+    * 도장
     * 걸레받이 x
+  * 문
+    * 히든도어 [인테리어쇼](https://www.youtube.com/watch?v=Le9_7Mattp0) 디테일 참고
+    * 도장
     * 문선 x
     * 문턱 x
   * 시스템 에어컨
     * 거실, 안방, 확장방, 다락입구방
 * 공간별
   * 현관
+    * 신발장 띄움시공
+    * [히든 센서](https://www.youtube.com/watch?v=6l5ITVnQRcI)
   * 주방
     * 주방 발코니에 세탁기 + 건조기
   * 화장실
