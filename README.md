@@ -1,6 +1,9 @@
 # interior
 
 ## Schedule
+
+2020.12.14 (월) 오전 11시 실측 방문
+
 |   Sun   |     Mon     |     Tue     |     Wed     |     Thu     |     Fri     |   Sat   |
 |-|-|-|-|-|-|-|
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
