@@ -113,6 +113,7 @@
     * 주방 발코니에 세탁기 + 건조기
   * 화장실
     * [인테리어쇼](https://www.youtube.com/watch?v=GN_AyigzUvA&list=PLKnn1JCMuq2a-c9bBVl74GYiMbr_mZZLC) 디테일 참고
+    * 화장실 청소용 수전
     * 거실화장실
       * 욕조
     * 안방화장실
