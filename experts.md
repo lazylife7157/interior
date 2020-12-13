@@ -8,7 +8,7 @@
   * [페인트신](http://blog.naver.com/prologue/PrologueList.nhn?blogId=wrose95&skinType=&skinId=&from=menu&userSelectMenu=true)
 * 도배
 * 타일
-* 싱크대 / 붙받이
+* 싱크대 / 붙박이장
 * 계단
   * [나무쟁이](http://blog.naver.com/PostList.nhn?blogId=seoulwys&parentCategoryNo=22&skinType=&skinId=&from=menu&userSelectMenu=true)
     * 초월 시공 가능
